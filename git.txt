@@ -1,0 +1,7 @@
+$ git init   // initialize repo
+$ git add <file> //
+$ git status // check status
+$ git commit // commit changes
+
+$ git push 
+$ git pull
